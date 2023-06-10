@@ -1,2 +1,3 @@
 # First
-## Created by KJH
+## Created by lily
+This is our team management system
