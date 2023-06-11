@@ -2,8 +2,6 @@ from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
 
 from .forms import LoginForm, SignupForm
-# KJH comment added
-# signin
 def signin(request):
     msg = None
     if request.method == "POST":
